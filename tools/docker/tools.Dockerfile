@@ -18,7 +18,7 @@
 # You can use this image to quickly develop changes to the Dockerfile assembler
 # or set of TF Docker partials. See README.md for usage instructions.
 
-FROM ubuntu:20.04
+FROM ubuntu:latest
 
 LABEL maintainer="Austin Anderson <angerson@google.com>"
 
