@@ -18,7 +18,7 @@
 # You can use this image to quickly develop changes to the Dockerfile assembler
 # or set of TF Docker partials. See README.md for usage instructions.
 
-FROM ubuntu:latest
+FROM ubuntu:kinetic-20220830
 
 LABEL maintainer="Austin Anderson <angerson@google.com>"
 
