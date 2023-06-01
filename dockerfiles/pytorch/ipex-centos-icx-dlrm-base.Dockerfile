@@ -13,7 +13,7 @@
 # limitations under the License.
 # ============================================================================
 
-ARG BASE_IMAGE=centos:centos7
+ARG BASE_IMAGE=centos:centos8
 FROM ${BASE_IMAGE} AS dev-base
 SHELL ["/bin/bash", "-c"]
 WORKDIR /workspace/installs/
