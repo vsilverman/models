@@ -8,9 +8,10 @@ Cython
 contextlib2
 jupyter
 matplotlib
-pillow>=9.3.0
+pillow>=10.0.0
 lxml
 absl-py
 notebook>=6.1.5
 
 pygments>=2.7.4 # not directly required, pinned by Snyk to avoid a vulnerability
+tornado>=6.3.3 # not directly required, pinned by Snyk to avoid a vulnerability
