@@ -1,9 +1,10 @@
 Cython
 contextlib2
-pillow>=9.3.0
+pillow>=10.0.0
 lxml
 jupyter
 matplotlib
 pycocotools
 ipython>=8.10.0 # not directly required, pinned by Snyk to avoid a vulnerability
 setuptools>=65.5.1 # not directly required, pinned by Snyk to avoid a vulnerability
+tornado>=6.3.3 # not directly required, pinned by Snyk to avoid a vulnerability
