@@ -1,7 +1,7 @@
 pycocotools
 numpy
 scipy
-Pillow>=9.3.0
+Pillow>=10.2.0
 cython
 matplotlib
 scikit-image
