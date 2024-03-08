@@ -17,7 +17,7 @@
 #
 # You can use this image to quickly develop changes to the Dockerfile assembler
 # or set of TF Docker partials. See README.md for usage instructions.
-FROM ubuntu:lunar-20230615
+FROM ubuntu:mantic-20240216
 LABEL maintainer="Austin Anderson <angerson@google.com>"
 
 ARG HTTP_PROXY
