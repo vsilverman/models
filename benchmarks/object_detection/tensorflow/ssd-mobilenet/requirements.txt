@@ -1,6 +1,6 @@
 Cython
 contextlib2
-pillow>=9.3.0
+pillow>=10.3.0
 lxml
 jupyter
 matplotlib
