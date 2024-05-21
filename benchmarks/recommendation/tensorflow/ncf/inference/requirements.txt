@@ -9,3 +9,4 @@ py-cpuinfo==3.3.0
 typing
 
 rsa>=4.7 # not directly required, pinned by Snyk to avoid a vulnerability
+requests>=2.32.0 # not directly required, pinned by Snyk to avoid a vulnerability
