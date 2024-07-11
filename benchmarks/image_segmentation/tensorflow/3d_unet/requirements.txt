@@ -1,4 +1,4 @@
-Keras==2.6.0rc3
+Keras==2.13.1rc0
 numpy
 nilearn==0.6.2
 tables
